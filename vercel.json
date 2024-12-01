@@ -11,6 +11,5 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ],
-  "buildCommand": "npm run start:dev"
+  ]
 }
