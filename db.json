@@ -147,7 +147,7 @@
       },
       {
         "id": 242404,
-        "name": "Drinks",
+        "name": "Bebidas",
         "position": 1000,
         "visible": 1,
         "images": [
@@ -202,7 +202,7 @@
       },
       {
         "id": 242677,
-        "name": "Desserts",
+        "name": "Sobremesas",
         "position": 2000,
         "images": [
           {
